@@ -2,16 +2,19 @@
 Data analytics project to understand India Employment market using microsoft excel, python, power BI
 
 **Overview**
+
 This project demonstrates a complete data analytics workflow — from loading and exploring a dataset in Python to building a Power BI dashboard and preparing a final report & presentation.
 It highlights essential skills required for a Data Analyst role, including data cleaning, EDA, visualization, and storytelling.
 
 **Dataset**
+
 Filename: Messy_Employment_India_Dataset
 Format: CSV
 Rows: 2000
 Columns: 9
 
 **Tools & Technologies**
+
 Python (Pandas, NumPy) – Data loading, EDA, cleaning
 Power BI – Dashboard creation
 Gamma – Presentation (PPT)
@@ -19,6 +22,7 @@ MS Word – Final report
 GitHub – Version control & documentation
 
 **Steps Followed**
+
 1️⃣ Load Dataset in Python
 Imported dataset using Pandas
 Checked data types, summary statistics
